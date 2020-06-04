@@ -47,7 +47,9 @@
     ],
     "imageResize": true,
     "uniqCompNum": 9,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
